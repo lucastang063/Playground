@@ -1,6 +1,6 @@
 # Playground
 
-A Playground repo for Ducks team to test and evaluate code.
+A Playground repo for Ducks team to test and evaluate code. This was made in 2026.
 
 ## Table of Contents
 
